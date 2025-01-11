@@ -1,3 +1,8 @@
+/*Write a program that takes two strings representing numbers, 
+converts them to wrapper classes, and performs basic arithmetic operations 
+(addition, subtraction, multiplication, division).*/
+
+
 import java.util.Scanner;
 
 public class ArithmeticOperations {
@@ -36,3 +41,15 @@ public class ArithmeticOperations {
         scanner.close();
     }
 }
+/* OUTPUT
+Enter the first number: 23
+Enter the second number: 23
+
+Arithmetic Operations:
+Addition: 46.0
+Subtraction: 0.0
+Multiplication: 529.0
+Division: 1.0
+    */
+
+
